@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
-    <string name="title">Coal is the New Cool</string>
+    <string name="title1">Coal</string>
+    <string name="title2">is</string>
+    <string name="title3">the New</string>
+    <string name="title4">Cool</string>
 </resources>
